@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  serverURL: 'https://git.heroku.com/pizzeriaangular.git' // TODO: usar la de heroku
+  serverURL: 'https://pizzeriaangular.herokuapp.com' // TODO: usar la de heroku
 };
